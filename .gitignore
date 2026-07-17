@@ -1,2 +1,9 @@
 # JetBrains IDE files
 .idea/
+
+# Dataset and Database files
+data/raw/
+data/database/mri_dataset.db
+
+# pycache files
+__pycache__/
