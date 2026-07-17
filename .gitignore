@@ -3,7 +3,7 @@
 
 # Dataset and Database files
 data/raw/
-data/database/mri_dataset.db
+data/database/
 
 # pycache files
 __pycache__/
