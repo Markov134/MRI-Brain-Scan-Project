@@ -7,3 +7,6 @@ data/database/
 
 # pycache files
 __pycache__/
+
+# notebook files
+notebooks/.ipynb_checkpoints/
